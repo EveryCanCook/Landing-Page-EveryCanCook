@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200;300;400;500;600&display=swap');
 
 :root{
-   --peru:#ff5600;
+   --orange:#ff5600;
    --black:#222;
    --white:#fff;
    --light-black:#666;
@@ -43,7 +43,7 @@ html::-webkit-scrollbar-track{
 }
 
 html::-webkit-scrollbar-thumb{
-   background-color: var(--peru);
+   background-color: var(--orange);
 }
 
 section{
@@ -57,7 +57,7 @@ section{
 
 .heading span{
    font-size: 2.5rem;
-   color:var(--peru);
+   color:var(--orange);
 }
 
 .heading h3{
@@ -190,7 +190,7 @@ section{
 
 .swiper-button-next:hover,
 .swiper-button-prev:hover{
-   background: var(--peru);
+   background: var(--orange);
    color:var(--white);
 }
 
@@ -270,7 +270,7 @@ section{
 }
 
 .swiper-pagination-bullet-active{
-   background: var(--peru);
+   background: var(--orange);
 }
 
 .swiper-horizontal>.swiper-pagination-bullets, .swiper-pagination-bullets.swiper-pagination-horizontal{
@@ -298,7 +298,7 @@ section{
 
 .food .slide .price{
    font-size: 2.5rem;
-   color:var(--peru);
+   color:var(--orange);
 }
 
 .food-preview-container{
@@ -344,7 +344,7 @@ section{
 
 .food-preview-container .food-preview .stars i{
    font-size: 1.7rem;
-   color:var(--peru);
+   color:var(--orange);
 }
 
 .food-preview-container .food-preview p{
@@ -468,11 +468,11 @@ section{
 
 .blogs .slide .content .icon a i{
    padding-right: .7rem;
-   color:var(--peru);
+   color:var(--orange);
 }
 
 .blogs .slide .content .icon a:hover{
-   color:var(--peru);
+   color:var(--orange);
 }
 
 .blogs .slide .content .title{
@@ -511,7 +511,7 @@ section{
    height: 6rem;
    width: 6rem;
    border-radius: 50%;
-   background: var(--peru);
+   background: var(--orange);
    color:var(--white);
    margin-bottom: .5rem;
    line-height: 5.8rem;
@@ -546,7 +546,7 @@ section{
 }  
 
 .footer .share a:hover{
-   background: var(--peru);
+   background: var(--orange);
 }
 
 .footer .credit{
@@ -558,7 +558,7 @@ section{
 }
 
 .footer .credit span{
-   color:var(--peru);
+   color:var(--orange);
 }
 
 
